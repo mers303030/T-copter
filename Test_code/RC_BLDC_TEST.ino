@@ -20,6 +20,7 @@ void setup()   /****** SETUP: RUNS ONCE ******/
 {
   Serial.begin(9600);
   s.attach(7);
+	klhkhkkl
   arm();
   s.detach();
   Serial.println("Nrf24L01 Receiver Starting");
